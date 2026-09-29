@@ -1,7 +1,7 @@
 # Paula Cordobes Fraga
 
 **Estudiante de Comercio · Universidad Complutense de Madrid**  
-**Retail, branding y experiencia de cliente · Interés en marketing digital**
+**Retail, branding y experiencia de cliente · Marketing digital**
 
 ### [Explora mi portfolio profesional ↗](https://paulacordobesfraga.github.io/)
 
@@ -13,7 +13,7 @@ Formación, certificaciones, competencias y proyectos de análisis comercial.
 
 Estudio **Comercio en la Universidad Complutense de Madrid**, con formación internacional en **Business Administration & Management en TU Dublin**. Me interesa cómo las marcas conectan con sus clientes y cómo el análisis comercial puede ayudar a tomar decisiones en retail y marketing digital.
 
-## Áreas de interés
+## Áreas de enfoque
 
 - **Marketing digital e inbound:** comprender las necesidades del cliente, la propuesta de valor y la relación con la marca, a partir de mi formación en HubSpot Academy.
 - **Branding y customer experience:** creación de marca, retail y experiencia de cliente, con formación de INSIDE LVMH.
@@ -37,7 +37,7 @@ Datos simulados de enero a junio de 2026. La contribución es parcial y el simul
 | :--- | :--- |
 | Análisis comercial | Microsoft Excel, tablas con filtros, gráficos e indicadores de ventas |
 | Marca y cliente | Branding, retail y customer experience |
-| Marketing | Metodología inbound; interés en marketing digital |
+| Marketing | Metodología inbound; marketing digital |
 | Negocio | Comercio, Business Administration y emprendimiento |
 
 ## Certificaciones

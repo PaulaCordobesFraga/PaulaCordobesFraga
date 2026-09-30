@@ -5,9 +5,9 @@
 
 ### [Explora mi portfolio profesional ↗](https://paulacordobesfraga.github.io/)
 
-Formación, certificaciones, competencias y proyectos de análisis comercial.
+Formación, certificaciones, competencias y proyectos de análisis comercial y marketing digital.
 
-[LinkedIn](https://www.linkedin.com/in/paula-cordob%C3%A9s-fraga-508a6a265/)
+[LinkedIn](https://www.linkedin.com/in/paulacordobesfraga/)
 
 ---
 
@@ -30,6 +30,16 @@ Caso práctico de análisis comercial con **1.500 pedidos simulados** de una tie
 [Descargar Excel](https://paulacordobesfraga.github.io/retail-lab/Retail-Lab-Excel.xlsx) · [Explorar el repositorio](https://github.com/PaulaCordobesFraga/Retail-Lab-Excel)
 
 Datos simulados de enero a junio de 2026. La contribución es parcial y el simulador calcula un umbral contable; no mide el retorno real de campañas ni predice la demanda.
+
+### [NAREA — Brand & Inbound Lab](https://github.com/PaulaCordobesFraga/NAREA-Brand-Inbound-Lab)
+
+Caso práctico de marketing digital para una marca ficticia de moda. Conecta estrategia inbound, una campaña de **cuatro semanas y doce contenidos**, una landing funcional, una guía y **tres emails** con un plan de medición y enlaces UTM.
+
+[![Previsualización de NAREA](https://paulacordobesfraga.github.io/narea-preview.png)](https://paulacordobesfraga.github.io/narea.html)
+
+[Explorar el proyecto](https://paulacordobesfraga.github.io/narea.html) · [Ver presentación](https://paulacordobesfraga.github.io/narea-NAREA-Brand-Inbound-Lab.pdf) · [Explorar el repositorio](https://github.com/PaulaCordobesFraga/NAREA-Brand-Inbound-Lab)
+
+Marca ficticia; campaña propuesta, sin ejecutar. Las métricas son objetivos de planificación. Relacionado con la formación en metodología inbound de HubSpot Academy.
 
 ## Herramientas y conocimientos
 
@@ -58,4 +68,4 @@ Septiembre de 2024–marzo de 2025 · Formación internacional.
 
 ---
 
-Madrid, España · [Conectemos en LinkedIn](https://www.linkedin.com/in/paula-cordob%C3%A9s-fraga-508a6a265/)
+Madrid, España · [Conectemos en LinkedIn](https://www.linkedin.com/in/paulacordobesfraga/)

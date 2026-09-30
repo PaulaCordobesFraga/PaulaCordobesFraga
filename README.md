@@ -35,7 +35,7 @@ Datos simulados de enero a junio de 2026. La contribución es parcial y el simul
 
 Caso práctico de marketing digital para una marca ficticia de moda. Conecta estrategia inbound, una campaña de **cuatro semanas y doce contenidos**, una landing funcional, una guía y **tres emails** con un plan de medición y enlaces UTM.
 
-[![Previsualización de NAREA](https://paulacordobesfraga.github.io/narea-preview.png)](https://paulacordobesfraga.github.io/narea.html)
+[![Previsualización de NAREA](narea-preview.png)](https://paulacordobesfraga.github.io/narea.html)
 
 [Explorar el proyecto](https://paulacordobesfraga.github.io/narea.html) · [Ver presentación](https://paulacordobesfraga.github.io/narea-NAREA-Brand-Inbound-Lab.pdf) · [Explorar el repositorio](https://github.com/PaulaCordobesFraga/NAREA-Brand-Inbound-Lab)
 
